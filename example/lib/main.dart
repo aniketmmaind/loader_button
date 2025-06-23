@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // extendBodyBehindAppBar: true,
+      extendBody: true,
       appBar: AppBar(
         elevation: 0,
         backgroundColor: Colors.transparent,
