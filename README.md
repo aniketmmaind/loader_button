@@ -92,6 +92,11 @@ LoaderButton(
   },
 )
 ```
+**Output:**
+
+<p align="center">
+  <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/default.gif" alt="Demo" width="250" height="150">
+</p>
 
 ---
 
@@ -128,6 +133,12 @@ LoaderButton.icon(
     },
 ),
 ```
+**Output:**
+
+<p align="center">
+  <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/icon.gif" alt="Demo" width="250" height="150">
+</p>
+
 
 ---
 
@@ -161,6 +172,11 @@ LoaderButton.text(
     },
 ),
 ```
+**Output:**
+
+<p align="center">
+  <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/text.gif" alt="Demo" width="250" height="150">
+</p>
 
 ---
 
@@ -199,6 +215,11 @@ LoaderButton.iconText(
     },
 ),
 ```
+**Output:**
+
+<p align="center">
+  <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/icon_text.gif" alt="Demo" width="250" height="150">
+</p>
 
 ---
 
@@ -274,6 +295,11 @@ LoaderButton.shimmer(
     },
 ),
 ```
+**Output:**
+
+<p align="center">
+  <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/shimmer.gif" alt="Demo" width="250" height="150">
+</p>
 
 ---
 
@@ -344,6 +370,11 @@ LoaderButton.shimmer(
     },
 ),
 ```
+**Output:**
+
+<p align="center">
+  <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/shimmer_grd.gif" alt="Demo" width="250" height="150">
+</p>
 
 ---
 
@@ -399,6 +430,11 @@ LoaderButton.animatedOutline(
     },
 ),
 ```
+**Output:**
+
+<p align="center">
+  <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/outline.gif" alt="Demo" width="250" height="150">
+</p>
 
 ## 🤝 Contributing
 
