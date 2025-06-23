@@ -4,6 +4,8 @@ A versatile Flutter button widget with built-in loading states, shimmer animatio
 
 ![Pub Version](https://img.shields.io/pub/v/loader_button)
 
+![Demo](https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/fullscreen.gif)
+
 ---
 
 ## ✨ Features
