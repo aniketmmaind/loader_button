@@ -1,7 +1,6 @@
-# loader_button   ![Pub Version](https://img.shields.io/pub/v/loader_button)
+# loader_button   ![Pub Version](https://img.shields.io/pub/v/loader_button)  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A versatile Flutter button widget with built-in shimmer animation, icons, text and animated outline styles — **7 different types of buttons** to cover all your button use cases!
-
 
 <p align="center">
   <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/fullscreen.gif" alt="Demo" width="250" height="500">
@@ -91,6 +90,7 @@ LoaderButton(
   },
 )
 ```
+
 **Output:**
 
 <p align="center">
@@ -132,12 +132,12 @@ LoaderButton.icon(
     },
 ),
 ```
+
 **Output:**
 
 <p align="center">
   <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/icon.gif" alt="Demo" width="250" height="150">
 </p>
-
 
 ---
 
@@ -171,6 +171,7 @@ LoaderButton.text(
     },
 ),
 ```
+
 **Output:**
 
 <p align="center">
@@ -214,6 +215,7 @@ LoaderButton.iconText(
     },
 ),
 ```
+
 **Output:**
 
 <p align="center">
@@ -294,6 +296,7 @@ LoaderButton.shimmer(
     },
 ),
 ```
+
 **Output:**
 
 <p align="center">
@@ -369,6 +372,7 @@ LoaderButton.shimmer(
     },
 ),
 ```
+
 **Output:**
 
 <p align="center">
@@ -429,6 +433,7 @@ LoaderButton.animatedOutline(
     },
 ),
 ```
+
 **Output:**
 
 <p align="center">
@@ -439,3 +444,7 @@ LoaderButton.animatedOutline(
 
 We love contributions and feedback!
 Whether it's fixing bugs, adding new features, improving documentation, or sharing ideas — **all contributions are welcome.**
+
+## ⚖️ License
+
+MIT License. See [LICENSE](LICENSE) for more information.
