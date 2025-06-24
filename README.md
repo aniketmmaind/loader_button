@@ -333,7 +333,7 @@ LoaderButton.shimmer(
         style: TextStyle(fontSize: 20, fontWeight: FontWeight.w600),
         ),
     ),
-    /// Instead of baseColor & highlightColor, we use a gradient.
+    // Instead of baseColor & highlightColor, we use a gradient.
     gradient: LinearGradient(
         colors: [
         Colors.purple.shade200,

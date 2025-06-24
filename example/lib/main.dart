@@ -295,7 +295,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),
                 ),
 
-                /// Instead of baseColor & highlightColor, we use a gradient.
+                // Instead of baseColor & highlightColor, we use a gradient.
                 gradient: LinearGradient(
                   colors: [
                     Colors.purple.shade200,
