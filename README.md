@@ -445,6 +445,8 @@ LoaderButton.animatedOutline(
 We love contributions and feedback!
 Whether it's fixing bugs, adding new features, improving documentation, or sharing ideas — **all contributions are welcome.**
 
+---
+
 ## ⚖️ License
 
 MIT License. See [LICENSE](LICENSE) for more information.
