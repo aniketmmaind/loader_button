@@ -3,7 +3,7 @@
 A versatile Flutter button widget with built-in shimmer animation, icons, text and animated outline styles — **7 different types of buttons** to cover all your button use cases!
 
 <p align="center">
-  <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/fullscreen.gif" alt="Demo" width="250" height="500">
+  <img src="https://raw.githubusercontent.com/aniketmmaind/loader_button/main/example/screen_shots/fullscreen.gif" alt="Demo" width="250" height="500">
 </p>
 
 ---
@@ -94,7 +94,7 @@ LoaderButton(
 **Output:**
 
 <p align="center">
-  <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/default.gif" alt="Demo" width="250" height="150">
+  <img src="https://raw.githubusercontent.com/aniketmmaind/loader_button/main/example/screen_shots/default.gif" alt="Demo" width="250" height="150">
 </p>
 
 ---
@@ -136,7 +136,7 @@ LoaderButton.icon(
 **Output:**
 
 <p align="center">
-  <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/icon.gif" alt="Demo" width="250" height="150">
+  <img src="https://raw.githubusercontent.com/aniketmmaind/loader_button/main/example/screen_shots/icon.gif" alt="Demo" width="250" height="150">
 </p>
 
 ---
@@ -175,7 +175,7 @@ LoaderButton.text(
 **Output:**
 
 <p align="center">
-  <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/text.gif" alt="Demo" width="250" height="150">
+  <img src="https://raw.githubusercontent.com/aniketmmaind/loader_button/main/example/screen_shots/text.gif" alt="Demo" width="250" height="150">
 </p>
 
 ---
@@ -219,7 +219,7 @@ LoaderButton.iconText(
 **Output:**
 
 <p align="center">
-  <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/icon_text.gif" alt="Demo" width="250" height="150">
+  <img src="https://raw.githubusercontent.com/aniketmmaind/loader_button/main/example/screen_shots/icon_text.gif" alt="Demo" width="250" height="150">
 </p>
 
 ---
@@ -300,7 +300,7 @@ LoaderButton.shimmer(
 **Output:**
 
 <p align="center">
-  <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/shimmer.gif" alt="Demo" width="250" height="150">
+  <img src="https://raw.githubusercontent.com/aniketmmaind/loader_button/main/example/screen_shots/shimmer.gif" alt="Demo" width="250" height="150">
 </p>
 
 ---
@@ -376,7 +376,7 @@ LoaderButton.shimmer(
 **Output:**
 
 <p align="center">
-  <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/shimmer_grd.gif" alt="Demo" width="250" height="150">
+  <img src="https://raw.githubusercontent.com/aniketmmaind/loader_button/main/example/screen_shots/shimmer_grd.gif" alt="Demo" width="250" height="150">
 </p>
 
 ---
@@ -437,7 +437,7 @@ LoaderButton.animatedOutline(
 **Output:**
 
 <p align="center">
-  <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/outline.gif" alt="Demo" width="250" height="150">
+  <img src="https://raw.githubusercontent.com/aniketmmaind/loader_button/main/example/screen_shots/outline.gif" alt="Demo" width="250" height="150">
 </p>
 
 ## 🤝 Contributing
