@@ -1,8 +1,7 @@
-# loader_button
+# loader_button   ![Pub Version](https://img.shields.io/pub/v/loader_button)
 
-A versatile Flutter button widget with built-in loading states, shimmer animation, icons, text, and animated outline styles — **6 flexible constructors** to cover all your button use cases!
+A versatile Flutter button widget with built-in shimmer animation, icons, text and animated outline styles — **7 different types of buttons** to cover all your button use cases!
 
-![Pub Version](https://img.shields.io/pub/v/loader_button)
 
 <p align="center">
   <img src="https://github.com/aniketmmaind/loader_button/blob/main/example/screen_shots/fullscreen.gif" alt="Demo" width="250" height="500">
@@ -30,7 +29,7 @@ A versatile Flutter button widget with built-in loading states, shimmer animatio
   Combine icon and text — position icon before, after, above or below the text!
 
 - **Shimmer effect**  
-  Add a shimmer animation to indicate loading or placeholders — supports gradient too!
+  Add a shimmer animation to indicate loading widget — supports gradient too!
 
 - **Animated outline**  
   Give your button an attractive animated border.
