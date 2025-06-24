@@ -67,7 +67,7 @@ import 'package:loader_button/loader_button.dart';
 
 ## 📌 Usage
 
-Below are real examples for each `LoaderButton` variant — with code snippets and outputs.
+Below are practical examples for each `LoaderButton` variant — with code snippets and outputs.
 
 ---
 
