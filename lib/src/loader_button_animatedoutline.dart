@@ -130,13 +130,12 @@ class _LoaderButtonAnimatedOutlineState
                   child: Center(
                     child: AnimatedSwitcher(
                       duration: const Duration(milliseconds: 200),
-                      child:
-                          widget.isLoading
-                              ? widget.loadingWidget ??
-                                  const CircularProgressIndicator(
-                                    color: Colors.blue,
-                                  )
-                              : widget.child,
+                      child: widget.isLoading
+                          ? widget.loadingWidget ??
+                              const CircularProgressIndicator(
+                                color: Colors.blue,
+                              )
+                          : widget.child,
                     ),
                   ),
                 ),
@@ -174,19 +173,17 @@ class _ShimmerGradientBorderPainter extends CustomPainter {
   void paint(Canvas canvas, Size size) {
     final path = shape.getOuterPath(Offset.zero & size);
 
-    final paint =
-        Paint()
-          ..style = PaintingStyle.stroke
-          ..strokeWidth = strokeWidth;
+    final paint = Paint()
+      ..style = PaintingStyle.stroke
+      ..strokeWidth = strokeWidth;
 
     if (!isLoading) {
       paint.color = baseColor;
       canvas.drawPath(path, paint);
     } else {
-      final colors =
-          shimmerColors?.isNotEmpty == true
-              ? shimmerColors!
-              : [Colors.red, Colors.yellow, Colors.blue];
+      final colors = shimmerColors?.isNotEmpty == true
+          ? shimmerColors!
+          : [Colors.red, Colors.yellow, Colors.blue];
       final wrappedColors = List<Color>.from(colors)..add(colors.first);
       final stops = List.generate(
         wrappedColors.length,
@@ -203,20 +200,18 @@ class _ShimmerGradientBorderPainter extends CustomPainter {
         transform: GradientRotation(2 * pi * progress * directionMultiplier),
       );
 
-      final shimmerPaint =
-          Paint()
-            ..style = PaintingStyle.stroke
-            ..strokeWidth = strokeWidth
-            ..shader = gradient.createShader(Offset.zero & size);
+      final shimmerPaint = Paint()
+        ..style = PaintingStyle.stroke
+        ..strokeWidth = strokeWidth
+        ..shader = gradient.createShader(Offset.zero & size);
 
       canvas.drawPath(path, shimmerPaint);
 
-      final glowPaint =
-          Paint()
-            ..style = PaintingStyle.stroke
-            ..strokeWidth = strokeWidth
-            ..shader = gradient.createShader(Offset.zero & size)
-            ..maskFilter = MaskFilter.blur(BlurStyle.outer, glowBlurRadius);
+      final glowPaint = Paint()
+        ..style = PaintingStyle.stroke
+        ..strokeWidth = strokeWidth
+        ..shader = gradient.createShader(Offset.zero & size)
+        ..maskFilter = MaskFilter.blur(BlurStyle.outer, glowBlurRadius);
 
       canvas.drawPath(path, glowPaint);
     }

@@ -15,7 +15,6 @@ enum AnimationDirection {
 
 @immutable
 class AnimatedOutlineStyles {
-  
   /// The shape of the button border and outline.
   final ShapeBorder? shape;
 
