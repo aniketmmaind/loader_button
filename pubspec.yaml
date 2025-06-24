@@ -1,5 +1,5 @@
 name: loader_button
-description: "A Flutter loader button package offering different loading, shimmer and animated outline buttons."
+description: A Flutter loader button package offering different loading, shimmer and animated outline buttons.
 version: 0.1.0
 homepage: https://github.com/aniketmmaind/loader_button.git
 repository: https://github.com/aniketmmaind/loader_button.git
