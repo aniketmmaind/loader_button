@@ -339,7 +339,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   });
                 },
                 onLongPress:
-                    () => showSnckBar("Forgggg loading just single tap/click"),
+                    () => showSnckBar("For loading just single tap/click"),
                 onDoubleTap:
                     () => showSnckBar("For loading just single tap/click"),
               ),
